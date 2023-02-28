@@ -586,26 +586,26 @@ body,button {
 	text-align:left
 }
 .page-1 p {
-	font-size:10em
+	font-size:5em
 }
 .page-1 img {
 	margin:1em auto 0 1em
 }
 .page-1 .text1 {
-	font-size:10em;
+	font-size:5em;
 	color:#FA4A4A;
 	line-height:2em;
 	margin:0.5em 0 0 0.5em
 }
 .page-1 .text2 {
-	font: size 10em;
+	font: size 5em;
 	margin:1.5em 0 0 1.5em
 }
 .flowtime .page-1 a {
 	color:#6e2626
 }
 .page-1 input {
-	font-size:10em;
+	font-size:5em;
 	padding:6px 8px;
 	width:8rem;
 	text-align:center;
